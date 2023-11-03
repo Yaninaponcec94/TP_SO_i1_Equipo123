@@ -1,3 +1,6 @@
 Yanina Ponce
 Luciano Vega
 Gerardo Toranzo
+
+respuesta_a: el Alfa ve lo cambios hechos por los integrantes
+respuesta_b: si Alfa agrega un archivo los demas lo ven
